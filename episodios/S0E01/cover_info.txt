@@ -1,0 +1,11 @@
+TEXTO PRINCIPAL (Grande):
+RUTA 0→3
+(o alternativa: DE MANUAL A IA)
+
+TEXTO SECUNDARIO (Pequeño/Arriba):
+NO COMPRES SENSORES AÚN
+
+NOTAS VISUALES:
+- Pedro a la izquierda protegiendo una pila de papeles (cara de "cuidado").
+- Javier a la derecha mostrando un sensor o una gráfica futurista (cara de "solución").
+- Una flecha o escalera visual que vaya del papel al sensor.
