@@ -1,0 +1,20 @@
+¿Quieres trazabilidad real sin ser experto en tecnología? 🤯
+
+Muchos intentan saltar directo a la IA (Nivel 3) sin tener datos manuales (Nivel 0). Eso solo genera ruido. 📉
+
+En el video de hoy Pedro y Javier te explican la escalera:
+📄 **K0:** Formularios y disciplina (Lo vital).
+📟 **K1:** Nodos IoT (Sensores).
+💻 **K2:** Home Assistant / Plataforma.
+🤖 **K3:** IA con control humano.
+
+🎁 **REGALO:** He subido el "Mapa de Niveles + Checklist de inicio" al repo. Enlace en la bio 🔗
+
+👇 **PARA AYUDARTE MEJOR, COMENTA TU PERFIL:**
+🅰️ **Plug&Play:** Quiero que funcione y punto.
+🅱️ **Vibecoding:** Me gusta trastear con código.
+©️ **Low-code:** Quiero configurar, no programar.
+
+⚠️ *Divulgativo. Solo entornos autorizados.*
+
+#DataDrivenGrow #CultivoInteligente #HomeAssistant #IoT #Agronomia
