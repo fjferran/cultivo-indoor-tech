@@ -1,0 +1,9 @@
+TITULO YOUTUBE: No compres 10 sensores, compra 1 (Plan Piloto) 🛑📟
+DESCRIPCION: El error de novato es llenarlo todo de cables. Empieza con UNA variable y valídala. Plantilla de Plan Piloto: [REPO_LINK]
+
+IG CAPTION:
+¿Quieres montar un sistema IoT? 🤖
+Pedro le prohíbe a Javier poner 10 sensores de golpe. 🛑
+La estrategia correcta es el "Piloto 0→1": Una variable, un sensor, una semana de pruebas.
+👇 ¿Por cuál vas a empezar? ¿Temperatura o Humedad? Te leo.
+#IoT #SmartGrow #Sensores #IngenieriaAgricola
