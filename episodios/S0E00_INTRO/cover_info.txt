@@ -1,1 +1,17 @@
+¿Quieres monitorizar y trazar tu cultivo indoor sin volverte loco con la tecnología? 🌱🤖
 
+Arrancamos esta serie donde unimos Agronomía + Tecnología. Sin humo.
+Te enseñamos la ruta completa (Nivel 0 al 3):
+
+1️⃣ Nivel 0: Manual y estricto (La base de Pedro).
+2️⃣ Nivel 1: Sensores IoT (El ojo digital).
+3️⃣ Nivel 2: Plataforma Open Source (El cerebro local).
+4️⃣ Nivel 3: Inteligencia Artificial (Optimización).
+
+En cada video tendrás un **entregable gratuito** en nuestro repositorio para que lo apliques ya.
+
+👇 **¿Te unes?** Síguenos para no perderte el Nivel 0 la próxima semana.
+
+⚠️ *Contenido divulgativo sobre tecnología y trazabilidad. Solo para entornos autorizados/regulados.*
+
+#CultivoIndoor #Trazabilidad #Agritech #CultivoTecnico #IndoorGrow #Grower #HomeAssistant
