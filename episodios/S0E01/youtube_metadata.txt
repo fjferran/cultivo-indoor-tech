@@ -1,0 +1,23 @@
+TITULO:
+No compres sensores sin ver esto (Escalera Nivel 0 a 3) 🪜🛑
+
+DESCRIPCIÓN:
+Antes de automatizar, necesitas definir qué registrar. Te enseñamos la diferencia entre el Kit 0 (Manual) y el Kit 3 (IA).
+
+En este video explicamos por qué saltarse el paso manual (Nivel 0) es el error número 1 al digitalizar cultivos.
+
+📥 Descarga el Mapa de Niveles aquí: [REPO_LINK]
+
+⚠️ Solo entornos regulados.
+
+#HomeAssistant #CultivoIndoor #IoT #AgriculturaDePrecision
+
+---
+
+COMENTARIO FIJADO:
+👇 ¿Qué perfil eres tú?
+🅰️ Plug & Play (Que funcione y punto)
+🅱️ Vibecoding (Me gusta trastear código)
+©️ Low-code (Configurar sin programar)
+
+Te leo para adaptar los próximos tutoriales.
