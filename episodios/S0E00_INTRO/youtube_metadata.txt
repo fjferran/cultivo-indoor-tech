@@ -1,1 +1,24 @@
+TITULO:
+Monitorización Indoor: De Manual a IA (Intro Serie) 📉➡️📈
 
+DESCRIPCIÓN:
+Empieza aquí. Presentamos la hoja de ruta para digitalizar tu cultivo profesional paso a paso.
+
+En esta serie unimos Agronomía (Pedro) y Tecnología (Javier) para ir del Nivel 0 (Papel) al Nivel 3 (Inteligencia Artificial) sin perder la cabeza.
+
+📂 Sigue la serie y descarga los recursos en el repo: [REPO_LINK]
+
+⚠️ Contenido divulgativo. Solo entornos regulados.
+
+#AgroTech #CultivoIndoor #Trazabilidad #Sistemas
+
+---
+
+COMENTARIO FIJADO:
+👇 ¿En qué nivel estás tú ahora?
+0️⃣ Papel y Excel
+1️⃣ Algunos sensores sueltos
+2️⃣ Home Assistant / Plataforma
+3️⃣ Ya usas IA
+
+Suscríbete para no perderte el Episodio 1 la semana que viene.
